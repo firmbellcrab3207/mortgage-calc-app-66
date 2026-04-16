@@ -1,2 +1,9 @@
-# mortgage-calc-app-66
-A simple mortgage calc project
+# Mortgage Calc
+
+A simple mortgage calc project.
+\n
+## Getting Started
+
+```bash
+python mortgage.py
+```
